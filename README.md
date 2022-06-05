@@ -1,4 +1,4 @@
-## Maxime Clavel, B. Software Engineer
+## 👨‍💻 Maxime Clavel, B. Software Engineer
 
 Hello you!
 
@@ -7,5 +7,5 @@ Hello you!
 - 💻 Currently working at Ubisoft Montréal
 - 🖤 Enjoy Go (Golang), Micro-services, Kubernetes, Cloud & Clean Code
 - 📺 Fan of *The Office*
+- 🇨🇦 Currently living in Canada
 - 🌱 Vegan
-

@@ -2,10 +2,11 @@
 
 Hello you!
 
-- 📚 Graduated Software Engineer from Polytechnique Montréal
+- 📚 Graduated Software Engineer (B. Eng.) from Polytechnique Montréal
 - 📃 Certified Kubernetes Application Developer (CKAD)
-- 💻 Currently working at Ubisoft Montréal (since March 2019)
+- 💻 Previous Work
+  - 🎮 Ubisoft Montréal (March 2019 - July 2022)
 - 🖤 Enjoy Go (Golang), Micro-services, Kubernetes, Cloud & Clean Code
 - 📺 Fan of *The Office*
-- 🇨🇦 Currently living in Canada
+- 🇨🇦 Currently living in Vritish Columbia, Canada
 - 🌱 Vegan

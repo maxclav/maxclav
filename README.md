@@ -11,4 +11,4 @@ Hello you!
 - 🇨🇦 Currently living in *British Columbia, Canada*
 - 🌱 Vegan
 
-I'm currently looking for a position (intermediate to early senior) software engineer in BC or remote (Canada).
+[I'm currently looking for a position (intermediate to early senior) software engineer in BC or remote (Canada)](https://www.linkedin.com/in/maxime-clavel/).

@@ -10,3 +10,5 @@ Hello you!
 - 📺 Fan of *The Office*
 - 🇨🇦 Currently living in Vritish Columbia, Canada
 - 🌱 Vegan
+
+I'm currently looking for a position (intermediate to early senior) software engineer in BC or remote (Canada).

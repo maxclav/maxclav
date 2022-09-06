@@ -11,4 +11,6 @@ Hello you!
 - 🇨🇦 Currently living in *British Columbia, Canada*
 - 🌱 Vegan
 
+Find my gists [here](https://gist.github.com/maxclav).
+
 [I'm currently looking for a position (intermediate to early senior) software engineer in BC or remote (Canada)](https://www.linkedin.com/in/maxime-clavel/).

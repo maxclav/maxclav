@@ -6,7 +6,7 @@ Hello you!
 - 📃 [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
 - 💻 Work
   - 🎮 *[Electronic Arts](https://www.ea.com)* (2023 - Present): Dedicated Gamef Server (DGS) management platform
-  - 🛡️ *[Qohash](https://qohash.com/)* (Octobre 2022 - 2023): Data Security Platform (DSP)
+  - 🛡️ *[Qohash](https://qohash.com/)* (2022 - 2023): Data Security Platform (DSP)
   - 🎮 *[Ubisoft](https://montreal.ubisoft.com/)* (2019 - 2022): Dedicated Gamef Server (DGS) management platform
 - 🖤 Enjoy [Go (Golang)](https://go.dev/), Micro-services, [Kubernetes](https://kubernetes.io/), Cloud, Clean Code and to learn
 - 🇨🇦 French Canadian from *Quebec*, currently living in *British Columbia*

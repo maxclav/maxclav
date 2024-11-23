@@ -1,4 +1,4 @@
-## 👨‍💻 Maxime Clavel, B.Eng., CKAD, [Gopher](https://go.dev/)
+## 👨‍💻 Maxime Clavel
 
 Hey! I'm Max, a french canadian from Quebec, currently living in British Columbia. 🇨🇦
 

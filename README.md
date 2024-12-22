@@ -14,7 +14,7 @@ Hey! I'm Max, a french canadian from Quebec, currently living in British Columbi
   - Cloud: [GCP](https://cloud.google.com/), [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/)
   - Observability: [Prometheus](https://prometheus.io/), [Datadog](https://www.datadoghq.com/), [Grafana](https://grafana.com/grafana/), [OpenTelemetry](https://opentelemetry.io/) [Jaeger](https://www.jaegertracing.io/)
   - UI: [Vue](https://vuejs.org/), HTML, CSS, JavaScript
-  - Containers and Infra: [Kubernetes](https://kubernetes.io/), [Docker](https://www.docker.com/), [Helm](https://helm.sh/)
+  - Containers and Orchestration: [Kubernetes](https://kubernetes.io/), [Docker](https://www.docker.com/), [Helm](https://helm.sh/)
   - Version Control: [Git](https://git-scm.com/), [GitLab CI](https://docs.gitlab.com/ee/ci/)
 - 🎓 **Education**
   - Software Engineer (BEng) from **[Polytechnique Montréal](https://www.polymtl.ca/)**

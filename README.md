@@ -11,5 +11,7 @@ Hey! I'm Max, a french canadian from Quebec, currently living in British Columbi
   - Project Management from **[HEC Montréal](https://www.hec.ca/)**
 - 📃 Certifications
   - [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
+ 
+Nothing to see here. I mostly work on small private personal projects and use GitLab at work.
 
 Find my gists [here](https://gist.github.com/maxclav).

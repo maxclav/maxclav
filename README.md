@@ -1,6 +1,6 @@
 ## 👨‍💻 Maxime Clavel
 
-Hey! I'm Max, a french canadian from Montreal (Quebec), currently living in Vancouvet (British Columbia). 🇨🇦
+Hey! I'm Max, a french canadian from Montreal (Quebec), currently living in Vancouver (British Columbia). 🇨🇦
 
 - 💻 **Work**: Backend-Oriented Full-Stack Software Engineer working on Cloud-Native Applications
   - 🎮 **[Electronic Arts](https://www.ea.com)** (2023 - Present): Dedicated Game Server (DGS) management platform

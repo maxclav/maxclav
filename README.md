@@ -1,17 +1,19 @@
-## 👨‍💻 Maxime Clavel
+<div align="center">
 
-Hey! I'm Max, a french canadian from Montreal (Quebec), currently living in Vancouver (British Columbia). 🇨🇦
+## Hey, I'm Max
 
-- 💻 **Work**: Backend-Oriented Full-Stack Software Engineer working on Cloud-Native Applications
-  - 🎮 **[Electronic Arts](https://www.ea.com)** (2023 - Present): Dedicated Game Server (DGS) management platform
-  - 🛡️ **[Qohash](https://qohash.com/)** (2022 - 2023): [Data Security Posture Management](https://www.ibm.com/topics/data-security-posture-management) (DSPM) platform
-  - 🎮 **[Ubisoft](https://montreal.ubisoft.com/)** (2019 - 2022): Dedicated Game Server (DGS) management platform
-- 🎓 **Education**
-  - Software Engineer (BEng) from **[Polytechnique Montréal](https://www.polymtl.ca/)**
-  - Project Management from **[HEC Montréal](https://www.hec.ca/)**
-- 📃 Certifications
-  - [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
- 
-Nothing to see here. I mostly work on small private personal projects and use GitLab at work.
+Québécois based in Vancouver 🇨🇦<br>
+I build things for fun and for a living.
 
-Find my gists [here](https://gist.github.com/maxclav).
+<img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="100" alt="dancing gopher">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+[maxclav.dev](https://maxclav.dev) · [Gists](https://gist.github.com/maxclav)
+
+</div>

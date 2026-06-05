@@ -14,6 +14,6 @@ I build things for fun and for a living.
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-[maxclavel.dev](https://maxclavel.dev) · [Gists](https://gist.github.com/maxclav)
+[Website](https://maxclavel.dev) · [LinkedIn](https://www.linkedin.com/in/maxime-clavel/) · [Gists](https://gist.github.com/maxclav)
 
 </div>
